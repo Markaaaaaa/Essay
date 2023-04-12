@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<style>
+  body{
+    background-color: black;
+    color: white;
+    margin-left: 1%;
+    font-size: 1.7em;
+    border: ridge rgb(249, 7, 32) 10px;
+    margin:5px;
+    padding:7px;
+    font-family:Georgia ;
+  }
+  a:link{
+    rgb(226,6,13)
+  }
+  a:visited{
+     color:orange;
+  }
+  a:hover { 
+    background-color: purple;
+  } 
+  h1{
+    border: ridge rgb(238,182,15) 10px;
+    text-align: center;
+    font-family: cursive;
+    font-size:3em;
+  }
+</style>
+<body>
+  <h1>Mark's Culminating project</h1>
+  <p>This year, we have studied three units in Computer Studies</p>
+  
+  <nav>
+   <ol>
+    <li><h4><a href="Unit 1.html">First unit</a> is Understanding computers</h4></li>
+   <li><h4><a href="Unit 2.html">Second unit</a> is C# programming</h4></li>
+   <li><h4><a href="Unit 3.html">Third unit</a> is HTML and CSS </h4></li>
+   </ol>
+  </nav>
+  
+</body>
+
+</html>
